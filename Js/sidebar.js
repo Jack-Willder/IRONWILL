@@ -1,17 +1,3 @@
-let viewportWidth = window.innerWidth;
-let viewportHeight  = window.innerHeight;
-
-if(viewportHeight>640)
-{
-  var coundownClock = document.getElementById("counter").style;
-  coundownClock.height = "360px"
-  var topgap = (viewportHeight - 360) / 2;
-  coundownClock.top = topgap + "px"
-
-}
-
-
-
 let show = document.getElementById("toggleButton");
 const querryVar = document.querySelector("#sideMenu");
 const span = document.querySelectorAll('span');

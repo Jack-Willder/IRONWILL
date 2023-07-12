@@ -24,7 +24,7 @@ function call(prop)
   {
     document.getElementById('clock').style.visibility = 'hidden';
     document.getElementById('counter').style.visibility = 'visible';
-    document.getElementById('counterclock').style.visibility = 'hidden'; 
+    document.getElementById('counterclock').style.visibility = 'hidden';
     document.getElementById('settings').style.visibility = 'hidden';
     checker();
   }
@@ -44,6 +44,11 @@ function call(prop)
     document.getElementById('settings').style.visibility = 'visible';
     checker();
   }
+  if(prop == 'timetable_page')
+  {
+    window.location = 'assets/TIMETABLE-V.svg'
+    checker();
+  }
 }
 
 
@@ -51,7 +56,7 @@ function call(prop)
 
 function checker()
 {
-  if (mode != "enabled") 
+  if (mode != "enabled")
   {
     querryVar.classList.add("active-content");
     document.getElementById("toggleButton").style.left = "calc(0.001vw + 10px)";
@@ -63,7 +68,7 @@ function checker()
     var temp_width = document.getElementById("toggleButton").clientWidth;
     var temp_height = document.getElementById("toggleButton").clientHeight;
 
-    if(temp_width==100 && temp_height==100) 
+    if(temp_width==100 && temp_height==100)
     {
       document.getElementById("span1").style.width = "90%";
       document.getElementById("span2").style.width = "90%";
@@ -91,8 +96,8 @@ function checker()
       mode = "enabled";
       // console.log(mode);
     }
-  } 
-  else 
+  }
+  else
   {
     querryVar.classList.remove("active-content");
     document.getElementById("toggleButton").style.left = "calc(0.001vw + 10px)";

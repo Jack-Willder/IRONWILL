@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1167.48148148 396">
+  <defs>
+    <clipPath id="clippath">
+      <rect x="1" y="10.81481481" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect x="1" y="10.81481481" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect x="3.03703704" y="10.81481481" width="1157.03703704" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect x="3" y="10.81481481" width="1157.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect y="10.81481481" width="1160.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect x="4" y="10.81481481" width="1156.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect x="1" y="62.66666667" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect x="1" y="62.66666667" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect x="1" y="62.66666667" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect x="1" y="62.66666667" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <polygon points="3.03703704 114.51851852 1160.07407407 114.51851852 1160.07407407 62.66666667 3 62.66666667 3.03703704 114.51851852" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <polygon points="3 114.51851852 1160.07407407 114.51851852 1160.07407407 62.66666667 0 62.66666667 3 114.51851852" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect x="1" y="118.22222222" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect x="1" y="118.22222222" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect x="1" y="118.22222222" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect x="1" y="118.22222222" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <polygon points="3.03703704 170.07407407 1160.07407407 170.07407407 1160.07407407 118.22222222 3 118.22222222 3.03703704 170.07407407" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <polygon points="3 170.07407407 1160.07407407 170.07407407 1160.07407407 118.22222222 0 118.22222222 3 170.07407407" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect x="1" y="170.07407407" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect x="1" y="170.07407407" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect x="1" y="170.07407407" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect x="1" y="170.07407407" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <rect x="3" y="170.07407407" width="1157.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <rect y="170.07407407" width="1160.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <rect x="1" y="225.62962963" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <rect x="1" y="225.62962963" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <rect x="1" y="225.62962963" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-27">
+      <rect x="1" y="225.62962963" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-28">
+      <rect x="3" y="225.62962963" width="1157.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <rect y="225.62962963" width="1160.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-30">
+      <rect x="1" y="281.18518519" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <rect x="1" y="281.18518519" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-32">
+      <rect x="1" y="281.18518519" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <rect x="1" y="281.18518519" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-34">
+      <polygon points="3.03703704 333.03703704 1160.07407407 333.03703704 1160.07407407 281.18518519 3 281.18518519 3.03703704 333.03703704" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-35">
+      <polygon points="3 333.03703704 1160.07407407 333.03703704 1160.07407407 281.18518519 0 281.18518519 3 333.03703704" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-36">
+      <rect x="1" y="333.03703704" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-37">
+      <rect x="1" y="333.03703704" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-38">
+      <rect x="1" y="333.03703704" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-39">
+      <rect x="1" y="333.03703704" width="1159.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-40">
+      <rect x="3" y="333.03703704" width="1157.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-41">
+      <rect y="333.03703704" width="1160.07407407" height="51.85185185" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-42">
+      <rect x="1.59259259" width="1165.88888889" height="396" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <path d="m11.92592593,62.66666667h1148.14814815V7.11111111H11.92592593v55.55555556Z" style="fill: #ff9a05; fill-rule: evenodd;"/>
+  <path d="m11.92592593,118.22222222h1148.14814815v-55.55555556H11.92592593v55.55555556Z" style="fill: #929292; fill-rule: evenodd;"/>
+  <path d="m11.92592593,173.77777778h1148.14814815v-55.55555556H11.92592593v55.55555556Z" style="fill: #e0e0e0; fill-rule: evenodd;"/>
+  <path d="m11.92592593,225.62962963h1148.14814815v-55.55555556H11.92592593v55.55555556Z" style="fill: #929292; fill-rule: evenodd;"/>
+  <path d="m11.92592593,281.18518519h1148.14814815v-55.55555556H11.92592593v55.55555556Z" style="fill: #e0e0e0; fill-rule: evenodd;"/>
+  <path d="m11.92592593,333.03703704h1148.14814815v-55.55555556H11.92592593v55.55555556Z" style="fill: #929292; fill-rule: evenodd;"/>
+  <path d="m11.92592593,388.59259259h1148.14814815v-55.55555556H11.92592593v55.55555556Z" style="fill: #e0e0e0; fill-rule: evenodd;"/>
+  <g style="clip-path: url(#clippath);">
+    <g style="isolation: isolate;">
+      <text transform="translate(59.65422341 49.95117188)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">O</tspan></text>
+      <text transform="translate(86.72258278 49.95117188)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">r</tspan></text>
+      <text transform="translate(100.99211403 49.95117188)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">d</tspan></text>
+      <text transform="translate(122.33586403 49.95117188)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">e</tspan></text>
+      <text transform="translate(142.69914528 49.95117188)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">r</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-1);">
+    <g style="isolation: isolate;">
+      <text transform="translate(289.09758278 49.95117188)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">1</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-2);">
+    <g style="isolation: isolate;">
+      <text transform="translate(480.20891091 49.95117188)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">2</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-3);">
+    <g style="isolation: isolate;">
+      <text transform="translate(671.39445778 49.95117188)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">3</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-4);">
+    <g style="isolation: isolate;">
+      <text transform="translate(862.50578591 49.95117188)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">4</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-5);">
+    <g style="isolation: isolate;">
+      <text transform="translate(1053.61711403 49.95117188)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">5</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-6);">
+    <g style="isolation: isolate;">
+      <text transform="translate(96.54289528 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">A</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-7);">
+    <g style="isolation: isolate;">
+      <text transform="translate(220.54289528 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">J</tspan></text>
+      <text transform="translate(233.42180153 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">2</tspan></text>
+      <text transform="translate(254.27531716 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(274.22844216 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(294.18352028 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0"> </tspan></text>
+      <text transform="translate(303.58781716 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">(</tspan></text>
+      <text transform="translate(315.97648903 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">l</tspan></text>
+      <text transform="translate(325.38078591 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">a</tspan></text>
+      <text transform="translate(344.96672341 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">b</tspan></text>
+      <text transform="translate(366.26945778 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">)</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-8);">
+    <g style="isolation: isolate;">
+      <text transform="translate(411.76359841 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">J</tspan></text>
+      <text transform="translate(424.64445778 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">2</tspan></text>
+      <text transform="translate(445.49797341 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(465.45109841 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(485.40617653 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0"> </tspan></text>
+      <text transform="translate(494.81047341 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">(</tspan></text>
+      <text transform="translate(507.19914528 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">l</tspan></text>
+      <text transform="translate(516.60344216 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">a</tspan></text>
+      <text transform="translate(536.18937966 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">b</tspan></text>
+      <text transform="translate(557.49211403 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">)</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-9);">
+    <g style="isolation: isolate;">
+      <text transform="translate(662.50578591 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">S</tspan></text>
+      <text transform="translate(681.17180153 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-10);">
+    <g style="isolation: isolate;">
+      <text transform="translate(836.28312966 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">J</tspan></text>
+      <text transform="translate(849.16398903 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">2</tspan></text>
+      <text transform="translate(870.01555153 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(889.97062966 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-11);">
+    <g style="isolation: isolate;">
+      <text transform="translate(1040.28312966 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">C</tspan></text>
+      <text transform="translate(1062.06047341 103.72851562)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">G</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-12);">
+    <g style="isolation: isolate;">
+      <text transform="translate(97.43156716 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">B</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-13);">
+    <g style="isolation: isolate;">
+      <text transform="translate(237.98625466 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">R</tspan></text>
+      <text transform="translate(260.18937966 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">D</tspan></text>
+      <text transform="translate(285.49992653 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">B</tspan></text>
+      <text transform="translate(307.74406716 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">M</tspan></text>
+      <text transform="translate(342.78508278 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">S</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-14);">
+    <g style="isolation: isolate;">
+      <text transform="translate(453.98625466 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">J</tspan></text>
+      <text transform="translate(466.86711403 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">2</tspan></text>
+      <text transform="translate(487.72062966 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(507.67375466 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-15);">
+    <g style="isolation: isolate;">
+      <text transform="translate(658.06047341 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">C</tspan></text>
+      <text transform="translate(679.83781716 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">G</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-16);">
+    <g style="isolation: isolate;">
+      <text transform="translate(853.61711403 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">S</tspan></text>
+      <text transform="translate(872.28312966 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-17);">
+    <g style="isolation: isolate;">
+      <text transform="translate(1030.06047341 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+      <text transform="translate(1051.36320778 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">H</tspan></text>
+      <text transform="translate(1076.71477028 157.50585938)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-18);">
+    <g style="isolation: isolate;">
+      <text transform="translate(97.43156716 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">C</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-19);">
+    <g style="isolation: isolate;">
+      <text transform="translate(265.54289528 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+      <text transform="translate(286.84562966 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">H</tspan></text>
+      <text transform="translate(312.19719216 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-20);">
+    <g style="isolation: isolate;">
+      <text transform="translate(411.76359841 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">J</tspan></text>
+      <text transform="translate(424.64445778 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">2</tspan></text>
+      <text transform="translate(445.49797341 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(465.45109841 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(485.40617653 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0"> </tspan></text>
+      <text transform="translate(494.81047341 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">(</tspan></text>
+      <text transform="translate(507.19914528 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">l</tspan></text>
+      <text transform="translate(516.60344216 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">a</tspan></text>
+      <text transform="translate(536.18937966 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">b</tspan></text>
+      <text transform="translate(557.49211403 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">)</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-21);">
+    <g style="isolation: isolate;">
+      <text transform="translate(602.87492653 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">J</tspan></text>
+      <text transform="translate(615.75578591 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">2</tspan></text>
+      <text transform="translate(636.60930153 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(656.56242653 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(676.51555153 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0"> </tspan></text>
+      <text transform="translate(685.91984841 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">(</tspan></text>
+      <text transform="translate(698.31047341 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">l</tspan></text>
+      <text transform="translate(707.71477028 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">a</tspan></text>
+      <text transform="translate(727.30070778 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">b</tspan></text>
+      <text transform="translate(748.60344216 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">)</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-22);">
+    <g style="isolation: isolate;">
+      <text transform="translate(811.39445778 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">R</tspan></text>
+      <text transform="translate(833.59758278 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">D</tspan></text>
+      <text transform="translate(858.90617653 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">B</tspan></text>
+      <text transform="translate(881.15031716 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">M</tspan></text>
+      <text transform="translate(916.19328591 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">S</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-23);">
+    <g style="isolation: isolate;">
+      <text transform="translate(1044.72844216 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">S</tspan></text>
+      <text transform="translate(1063.39445778 211.28320312)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-24);">
+    <g style="isolation: isolate;">
+      <text transform="translate(95.65422341 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">D</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-25);">
+    <g style="isolation: isolate;">
+      <text transform="translate(275.76359841 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">C</tspan></text>
+      <text transform="translate(297.54289528 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">G</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-26);">
+    <g style="isolation: isolate;">
+      <text transform="translate(414.43156716 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+      <text transform="translate(435.73430153 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">H</tspan></text>
+      <text transform="translate(461.08586403 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+      <text transform="translate(482.38859841 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0"> </tspan></text>
+      <text transform="translate(491.62883278 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">(</tspan></text>
+      <text transform="translate(504.14055153 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">l</tspan></text>
+      <text transform="translate(513.54484841 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">a</tspan></text>
+      <text transform="translate(533.13078591 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">b</tspan></text>
+      <text transform="translate(554.35344216 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">)</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-27);">
+    <g style="isolation: isolate;">
+      <text transform="translate(605.54289528 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+      <text transform="translate(626.84562966 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">H</tspan></text>
+      <text transform="translate(652.19719216 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+      <text transform="translate(673.49992653 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0"> </tspan></text>
+      <text transform="translate(682.74016091 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">(</tspan></text>
+      <text transform="translate(695.25187966 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">l</tspan></text>
+      <text transform="translate(704.65617653 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">a</tspan></text>
+      <text transform="translate(724.24211403 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">b</tspan></text>
+      <text transform="translate(745.46477028 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">)</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-28);">
+    <g style="isolation: isolate;">
+      <text transform="translate(838.94914528 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+      <text transform="translate(860.25187966 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">H</tspan></text>
+      <text transform="translate(885.60344216 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-29);">
+    <g style="isolation: isolate;">
+      <text transform="translate(1044.72844216 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">S</tspan></text>
+      <text transform="translate(1063.39445778 265.0625)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-30);">
+    <g style="isolation: isolate;">
+      <text transform="translate(98.32023903 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-31);">
+    <g style="isolation: isolate;">
+      <text transform="translate(265.54289528 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+      <text transform="translate(286.84562966 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">H</tspan></text>
+      <text transform="translate(312.19719216 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-32);">
+    <g style="isolation: isolate;">
+      <text transform="translate(429.09758278 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">R</tspan></text>
+      <text transform="translate(451.30070778 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">D</tspan></text>
+      <text transform="translate(476.61125466 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">B</tspan></text>
+      <text transform="translate(498.85344216 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">M</tspan></text>
+      <text transform="translate(533.89641091 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">S</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-33);">
+    <g style="isolation: isolate;">
+      <text transform="translate(645.09758278 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">J</tspan></text>
+      <text transform="translate(657.97844216 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">2</tspan></text>
+      <text transform="translate(678.83195778 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(698.78508278 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-34);">
+    <g style="isolation: isolate;">
+      <text transform="translate(804.28312966 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">L</tspan></text>
+      <text transform="translate(821.57805153 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">I</tspan></text>
+      <text transform="translate(831.88273903 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">B</tspan></text>
+      <text transform="translate(854.12687966 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">R</tspan></text>
+      <text transform="translate(876.33000466 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">A</tspan></text>
+      <text transform="translate(899.79875466 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">R</tspan></text>
+      <text transform="translate(922.00187966 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">Y</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-35);">
+    <g style="isolation: isolate;">
+      <text transform="translate(1040.28312966 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">C</tspan></text>
+      <text transform="translate(1062.06047341 318.83984375)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">G</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-36);">
+    <g style="isolation: isolate;">
+      <text transform="translate(99.20891091 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">F</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-37);">
+    <g style="isolation: isolate;">
+      <text transform="translate(280.20891091 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">S</tspan></text>
+      <text transform="translate(298.87492653 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-38);">
+    <g style="isolation: isolate;">
+      <text transform="translate(429.09758278 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">R</tspan></text>
+      <text transform="translate(451.30070778 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">D</tspan></text>
+      <text transform="translate(476.61125466 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">B</tspan></text>
+      <text transform="translate(498.85344216 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">M</tspan></text>
+      <text transform="translate(533.89641091 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">S</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-39);">
+    <g style="isolation: isolate;">
+      <text transform="translate(645.09758278 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">J</tspan></text>
+      <text transform="translate(657.97844216 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">2</tspan></text>
+      <text transform="translate(678.83195778 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(698.78508278 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">E</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-40);">
+    <g style="isolation: isolate;">
+      <text transform="translate(796.72844216 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+      <text transform="translate(818.03117653 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">H</tspan></text>
+      <text transform="translate(843.38078591 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+      <text transform="translate(864.68547341 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0"> </tspan></text>
+      <text transform="translate(873.92570778 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">(</tspan></text>
+      <text transform="translate(886.43742653 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">l</tspan></text>
+      <text transform="translate(895.84172341 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">a</tspan></text>
+      <text transform="translate(915.42766091 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">b</tspan></text>
+      <text transform="translate(936.64836403 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">)</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-41);">
+    <g style="isolation: isolate;">
+      <text transform="translate(987.83781716 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+      <text transform="translate(1009.14250466 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">H</tspan></text>
+      <text transform="translate(1034.49211403 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">P</tspan></text>
+      <text transform="translate(1055.79484841 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0"> </tspan></text>
+      <text transform="translate(1065.03703591 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">(</tspan></text>
+      <text transform="translate(1077.54875466 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">l</tspan></text>
+      <text transform="translate(1086.95305153 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">a</tspan></text>
+      <text transform="translate(1106.53898903 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">b</tspan></text>
+      <text transform="translate(1127.75969216 372.6171875)" style="font-family: Calibri, Calibri; font-size: 40.88888931px; isolation: isolate;"><tspan x="0" y="0">)</tspan></text>
+    </g>
+  </g>
+  <g style="clip-path: url(#clippath-42);">
+    <g>
+      <path d="m8.22222222,7.11111111v381.48148148" style="fill: none; stroke: #000; stroke-linecap: square; stroke-linejoin: round; stroke-width: .14px;"/>
+      <path d="m8.22222222,388.59259259h3.7037037V7.11111111h-3.7037037v381.48148148Z" style="fill-rule: evenodd;"/>
+      <path d="m200.81481481,10.81481481v377.77777778" style="fill: none; stroke: #000; stroke-linecap: square; stroke-linejoin: round; stroke-width: .14px;"/>
+      <path d="m200.81481481,388.59259259h3.7037037V10.81481481h-3.7037037v377.77777778Z" style="fill-rule: evenodd;"/>
+      <path d="m393.40740741,10.81481481v377.77777778" style="fill: none; stroke: #000; stroke-linecap: square; stroke-linejoin: round; stroke-width: .14px;"/>
+      <path d="m393.40740741,388.59259259h3.7037037V10.81481481h-3.7037037v377.77777778Z" style="fill-rule: evenodd;"/>
+      <path d="m582.2962963,10.81481481v377.77777778" style="fill: none; stroke: #000; stroke-linecap: square; stroke-linejoin: round; stroke-width: .14px;"/>
+      <path d="m582.2962963,388.59259259h3.7037037V10.81481481h-3.7037037v377.77777778Z" style="fill-rule: evenodd;"/>
+      <path d="m774.88888889,10.81481481v377.77777778" style="fill: none; stroke: #000; stroke-linecap: square; stroke-linejoin: round; stroke-width: .14px;"/>
+      <path d="m774.88888889,388.59259259h3.7037037V10.81481481h-3.7037037v377.77777778Z" style="fill-rule: evenodd;"/>
+      <path d="m963.77777778,10.81481481v377.77777778" style="fill: none; stroke: #000; stroke-linecap: square; stroke-linejoin: round; stroke-width: .14px;"/>
+      <path d="m963.77777778,388.59259259h3.7037037V10.81481481h-3.7037037v377.77777778Z" style="fill-rule: evenodd;"/>
+      <path d="m1156.37037037,10.81481481v377.77777778" style="fill: none; stroke: #000; stroke-linecap: square; stroke-linejoin: round; stroke-width: .14px;"/>
+      <path d="m1156.37037037,388.59259259h3.7037037V10.81481481h-3.7037037v377.77777778Z" style="fill-rule: evenodd;"/>
+      <path d="m11.92592593,7.11111111h1148.14814815" style="fill: none; stroke: #000; stroke-linecap: square; stroke-linejoin: round; stroke-width: .14px;"/>
+      <path d="m11.92592593,10.81481481h1148.14814815v-3.7037037H11.92592593v3.7037037Z" style="fill-rule: evenodd;"/>
+      <path d="m11.92592593,62.66666667h1148.14814815" style="fill: none; stroke: #000; stroke-linecap: square; stroke-linejoin: round; stroke-width: .14px;"/>
+      <path d="m11.92592593,66.37037037h1148.14814815v-3.7037037H11.92592593v3.7037037Z" style="fill-rule: evenodd;"/>
+      <path d="m11.92592593,384.88888889h1148.14814815" style="fill: none; stroke: #000; stroke-linecap: square; stroke-linejoin: round; stroke-width: .14px;"/>
+      <path d="m11.92592593,388.59259259h1148.14814815v-3.7037037H11.92592593v3.7037037Z" style="fill-rule: evenodd;"/>
+    </g>
+  </g>
+</svg>

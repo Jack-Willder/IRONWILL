@@ -46,7 +46,7 @@ function call(prop)
   }
   if(prop == 'timetable_page')
   {
-    window.location = 'assets/timetable.html'
+    window.location = 'timetable.html'
     checker();
   }
 }

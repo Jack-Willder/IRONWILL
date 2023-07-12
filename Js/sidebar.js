@@ -46,7 +46,7 @@ function call(prop)
   }
   if(prop == 'timetable_page')
   {
-    window.location = 'assets/TIMETABLE-V.svg'
+    window.location = 'assets/TIMETABLE.html'
     checker();
   }
 }
